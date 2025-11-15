@@ -9,7 +9,7 @@ session_start([
     'cookie_lifetime' => 60*60*24*60, // 2 months
     'cookie_httponly' => true,
     'use_strict_mode' => true,
-    'cookie_samesite' => 'Lax'
+    'cookie_samesite' => 'Strict'
 ]);
 
 // Cookie settings (legacy)
