@@ -1,0 +1,23 @@
+{
+  "verze": "1.1",
+  "vyznamy_slova": [
+    {
+      "vyznam": "lapit se do pasti na hněv",
+      "synonymum_id": null
+    },
+    {
+      "vyznam": "vyprovokování do frustrace",
+      "synonymum_id": null
+    }
+  ],
+  "rod": "ženský",
+  "druh": "slang",
+  "pouziti_ve_vete": [
+    "On se fakt chytil do spárů mé hněvolapky.",
+    "Tak na tuhle hněvolapku ti fakt neskočím."
+  ],
+  "upravili": [
+    "ChatGPT",
+    "User"
+  ]
+}

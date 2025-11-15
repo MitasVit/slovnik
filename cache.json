@@ -1,0 +1,84 @@
+[
+  {
+    "id": "001",
+    "pojem": "hněvolapka",
+    "vytvorili": [
+      "Mitáš Vít",
+      "Jepán Šandl"
+    ],
+    "puvodni_anglicismus": "ragebait",
+    "aktualni_verze": "1.1",
+    "verze": "1.1",
+    "vyznamy_slova": [
+      {
+        "vyznam": "lapit se do pasti na hněv",
+        "synonymum_id": null
+      },
+      {
+        "vyznam": "vyprovokování do frustrace",
+        "synonymum_id": null
+      }
+    ],
+    "rod": "ženský",
+    "druh": "slang",
+    "pouziti_ve_vete": [
+      "On se fakt chytil do spárů mé hněvolapky.",
+      "Tak na tuhle hněvolapku ti fakt neskočím."
+    ],
+    "upravili": [
+      "ChatGPT",
+      "User"
+    ],
+    "_folder": "hněvolapka"
+  },
+  {
+    "id": "002",
+    "pojem": "slay",
+    "vytvorili": [
+      "Sam Šafář"
+    ],
+    "puvodni_anglicismus": "slay",
+    "aktualni_verze": "1.0",
+    "verze": "1.0",
+    "vyznamy_slova": [
+      {
+        "vyznam": "být extrémně dobrý nebo stylový",
+        "synonymum_id": "a001"
+      }
+    ],
+    "rod": "sloveso",
+    "druh": "slang",
+    "pouziti_ve_vete": [
+      "Ona dnes fakt slay!"
+    ],
+    "upravili": [
+      "Sam Šafář"
+    ],
+    "_folder": "slay"
+  },
+  {
+    "id": "003",
+    "pojem": "sigma",
+    "vytvorili": [
+      "Admin"
+    ],
+    "puvodni_anglicismus": "",
+    "aktualni_verze": "1.0",
+    "verze": "1.0",
+    "vyznamy_slova": [
+      {
+        "vyznam": "postava z memu",
+        "synonymum_id": null
+      }
+    ],
+    "rod": "mužský",
+    "druh": "internetový výraz",
+    "pouziti_ve_vete": [
+      "Ten je celej sigma."
+    ],
+    "upravili": [
+      "Admin"
+    ],
+    "_folder": "sigma"
+  }
+]
